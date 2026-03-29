@@ -1,0 +1,15 @@
+{
+  "name": "dark-fusion",
+  "displayName": "Dark Fusion",
+  "publisher": "local",
+  "version": "1.0.0",
+  "engines": { "vscode": "^1.0.0" },
+  "categories": ["Themes"],
+  "contributes": {
+    "themes": [{
+      "label": "Dark Fusion",
+      "uiTheme": "vs-dark",
+      "path": "./themes/dark-fusion-color-theme.json"
+    }]
+  }
+}
